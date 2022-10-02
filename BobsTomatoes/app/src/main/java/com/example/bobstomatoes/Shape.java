@@ -1,8 +1,7 @@
 package com.example.bobstomatoes;
 
 public abstract class Shape {
-	
-    String color = "pink";	
+
     private int x;
     private int y;
 
