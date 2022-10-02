@@ -1,3 +1,5 @@
+package com.example.bobstomatoes;
+
 // Square.java
 
 public class Square extends Shape {
