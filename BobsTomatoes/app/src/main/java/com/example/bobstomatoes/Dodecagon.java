@@ -6,5 +6,5 @@ public abstract class Dodecagon extends Shape{
         super(x, y);
     }
 
-    
+
 }
